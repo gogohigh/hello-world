@@ -1,2 +1,5 @@
 # hello-world
-Hello World!!
+
+Hello Guys~~
+
+My name is Hoseon Yoon, I live in Incheon, Seoul.
